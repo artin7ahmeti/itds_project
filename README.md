@@ -64,3 +64,7 @@ To run this project, install the following dependencies:
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn
+
+---
+
+Link to this github repository: https://github.com/artin7ahmeti/itds_project
